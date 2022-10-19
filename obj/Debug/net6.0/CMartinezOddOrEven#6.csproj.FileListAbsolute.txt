@@ -1,0 +1,15 @@
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezOddOrEven#6/bin/Debug/net6.0/CMartinezOddOrEven#6
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezOddOrEven#6/bin/Debug/net6.0/CMartinezOddOrEven#6.deps.json
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezOddOrEven#6/bin/Debug/net6.0/CMartinezOddOrEven#6.runtimeconfig.json
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezOddOrEven#6/bin/Debug/net6.0/CMartinezOddOrEven#6.dll
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezOddOrEven#6/bin/Debug/net6.0/CMartinezOddOrEven#6.pdb
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezOddOrEven#6/obj/Debug/net6.0/CMartinezOddOrEven#6.csproj.AssemblyReference.cache
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezOddOrEven#6/obj/Debug/net6.0/CMartinezOddOrEven#6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezOddOrEven#6/obj/Debug/net6.0/CMartinezOddOrEven#6.AssemblyInfoInputs.cache
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezOddOrEven#6/obj/Debug/net6.0/CMartinezOddOrEven#6.AssemblyInfo.cs
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezOddOrEven#6/obj/Debug/net6.0/CMartinezOddOrEven#6.csproj.CoreCompileInputs.cache
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezOddOrEven#6/obj/Debug/net6.0/CMartinezOddOrEven#6.dll
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezOddOrEven#6/obj/Debug/net6.0/refint/CMartinezOddOrEven#6.dll
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezOddOrEven#6/obj/Debug/net6.0/CMartinezOddOrEven#6.pdb
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezOddOrEven#6/obj/Debug/net6.0/CMartinezOddOrEven#6.genruntimeconfig.cache
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezOddOrEven#6/obj/Debug/net6.0/ref/CMartinezOddOrEven#6.dll
